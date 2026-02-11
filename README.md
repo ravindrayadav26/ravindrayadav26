@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/ravindrayadav26/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="linkedin" />
     </a>
-    <a href="https://ravindrayadav.me">
+    <a href="https://ravindrayadav.site">
       <img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=react&logoColor=white" height="30" alt="portfolio" />
     </a>
   </h3>
@@ -38,7 +38,7 @@ This project handles complex file upload streams, secure authentication, and rea
 
 | **Live Demo** | **Source Code** |
 |:---:|:---:|
-| [🔗 Live Demo](https://skyvault.ravindrayadav.me) | [💻 GitHub Repo](https://github.com/ravindrayadav26/skyvault) |
+| [🔗 Live Demo](https://skyvault.ravindrayadav.site) | [💻 GitHub Repo](https://github.com/ravindrayadav26/skyvault) |
 
 <div align="center">
   </div>
